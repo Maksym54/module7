@@ -2,7 +2,7 @@ from setuptools import setup, find_namespace_packages
 
 setup(name='clean_folder',
       version='0.0.1',
-      description='Very useful code',
+      description='Very useful Code',
       author='Maksym Kostelnyi',
       author_email='testmmk@example.com',
       license='MIT',
